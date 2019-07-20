@@ -1,0 +1,3 @@
+screeninfo
+PyQt5
+requests
