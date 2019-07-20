@@ -1,6 +1,17 @@
 [
   {
     "resolution": "1920x1080",
+    "width": 370,
+    "height": 230,
+    "x-offset": 1530,
+    "y-offset": 840,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "transparency": 0.1
+  },
+  {
+    "resolution": "1920x1080",
     "width": 72,
     "height": 45,
     "x-offset": 83,
@@ -9,15 +20,5 @@
     "green": 0,
     "blue": 0,
     "transparency": 0.5
-  },
-  {
-    "resolution": "1920x1080",
-    "width": 370,
-    "height": 230,
-    "x-offset": 1530,
-    "y-offset": 840,
-    "red": 0,
-    "green": 0,
-    "blue": 0,
-    "transparency": 0.1}
+  }
 ]
